@@ -2,4 +2,4 @@
 def greeting(name = "Natalie")
   puts "Hello #{name.strip}. It's nice to meet you."
 end 
-greeting('Bob       ')
+greeting
