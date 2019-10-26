@@ -1,5 +1,5 @@
 # code the #greeting method here!
 def greeting(name = "Natalie")
-  puts "Hello #{name = gets.chomp}. It's nice to meet you."
+  puts "Hello #{name}. It's nice to meet you.".string
 end 
 greeting
